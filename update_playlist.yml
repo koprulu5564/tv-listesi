@@ -1,0 +1,29 @@
+name: Update M3U Playlist Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Her gün 00:00'da çalışır (UTC zamanı)
+  workflow_dispatch:     # Manuel çalıştırma seçeneği
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.0'
+    
+    - name: Run PHP script
+      run: php generate_playlist.php
+      
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add playlist.m3u
+        git commit -m "Güncel M3U listesi [skip ci]"
+        git push
