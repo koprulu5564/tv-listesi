@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/plain; charset=utf-8');
 
-// API'den veri çekme fonksiyonu
+// API'den veri çekme fonksiyonu (Token süresi kontrol edilmeli)
 function fetchChannelData() {
     $url = "https://core-api.kablowebtv.com/api/channels";
     $headers = [
@@ -17,17 +17,23 @@ function fetchChannelData() {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_TIMEOUT, 30);
     curl_setopt($ch, CURLOPT_ENCODING, 'gzip');
+    curl_setopt($ch, CURLOPT_FAILONERROR, true); // Hataları yakala
 
     $response = curl_exec($ch);
+    if (curl_errno($ch)) {
+        file_put_contents('error.log', 'CURL Error: ' . curl_error($ch), FILE_APPEND);
+        return false;
+    }
     curl_close($ch);
 
     return $response;
 }
 
-// M3U oluşturma fonksiyonu
+// M3U oluşturma fonksiyonu (MOD kontrolü olmadan)
 function generateM3U($apiData) {
     $data = json_decode($apiData, true);
     if (!$data || !$data['IsSucceeded'] || !isset($data['Data']['AllChannels'])) {
+        file_put_contents('error.log', "API Invalid Response: " . print_r($data, true), FILE_APPEND);
         return false;
     }
 
@@ -41,7 +47,7 @@ function generateM3U($apiData) {
         if ($group === "Bilgilendirme") continue;
         
         $m3uContent .= '#EXTINF:-1 tvg-logo="' . ($channel['PrimaryLogoImageUrl'] ?? '') . '" group-title="' . $group . '",' . $channel['Name'] . "\n";
-        $m3uContent .= $channel['StreamData']['HlsStreamUrl'] . "\n";
+        $m3uContent .= $channel['StreamData']['HlsStreamUrl'] . "\n"; // MOD olmadan direkt URL
     }
 
     return $m3uContent;
@@ -52,12 +58,14 @@ $apiResponse = fetchChannelData();
 if ($apiResponse) {
     $m3uContent = generateM3U($apiResponse);
     if ($m3uContent !== false) {
-        file_put_contents('playlist.m3u', $m3uContent);
-        echo "M3U playlist başarıyla oluşturuldu!";
-    } else {
-        echo "API geçersiz yanıt verdi.";
+        if (file_put_contents('playlist.m3u', $m3uContent) === false) {
+            file_put_contents('error.log', "M3U write failed!", FILE_APPEND);
+        }
     }
-} else {
-    echo "API'den veri alınamadı.";
+}
+
+// Hata logunu kontrol et (Opsiyonel)
+if (file_exists('error.log')) {
+    echo file_get_contents('error.log');
 }
 ?>
