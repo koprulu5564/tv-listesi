@@ -2,28 +2,45 @@ name: Update M3U Playlist Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Her gün 00:00'da çalışır (UTC zamanı)
-  workflow_dispatch:     # Manuel çalıştırma seçeneği
+    - cron: '0 0 * * *'  # Her gün 00:00'da (UTC)
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
-    
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Tüm commit geçmişini çek
+
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: '8.0'
-    
+        php-version: '8.2'
+        tools: composer  # PHP ek araçları yükle
+
+    - name: Debug - List files
+      run: ls -la  # Dosya yapısını kontrol
+
     - name: Run PHP script
-      run: php generate_playlist.php
-      
+      run: |
+        php generate_playlist.php
+        echo "-----OLUŞAN M3U İÇERİĞİ-----"
+        cat playlist.m3u || echo "M3U dosyası oluşmadı!"
+        echo "---------------------------"
+
+    - name: Debug - Verify files
+      run: |
+        ls -la
+        [ -f "playlist.m3u" ] && echo "M3U DOSYASI VAR" || echo "M3U DOSYASI YOK"
+
     - name: Commit and push changes
+      if: success()
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add playlist.m3u
-        git commit -m "Güncel M3U listesi [skip ci]"
+        git status
+        git commit -m "Auto-updated playlist [skip ci]"
         git push
