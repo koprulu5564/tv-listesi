@@ -1,5 +1,5 @@
 <?php
-$source_url = 'https://koprulu.liveblog365.com/kablotv.m3u';
+$source_url = 'mth.tc/kabloid';
 $output_file = 'kablotv_processed.m3u';
 
 // CURL ile tarayıcı benzeri istek yap
