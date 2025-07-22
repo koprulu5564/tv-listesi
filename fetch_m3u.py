@@ -1,6 +1,6 @@
 import requests
 
-source_url = "https://mth.tc/kabloid"  # TEST BAĞLANTISI
+source_url = "https://koprulu.liveblog365.com/kablotv.m3u"  # TEST BAĞLANTISI
 output_file = "kablotv_processed.m3u"
 
 try:
