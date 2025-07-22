@@ -1,5 +1,5 @@
 <?php
-$source_url = 'mth.tc/kabloid';
+$source_url = 'mth.tc/kabloid?extension=m3u';
 $output_file = 'kablotv_processed.m3u';
 
 // CURL ile tarayıcı benzeri istek yap
