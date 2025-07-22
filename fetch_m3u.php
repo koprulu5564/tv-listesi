@@ -8,5 +8,5 @@ $m3u_content = file_get_contents($source_url);
 // Dosyaya yaz
 file_put_contents($output_file, $m3u_content);
 
-echo "M3U listesi başarıyla güncellendi!";
+echo "M3U listesi başarıyla oluşturuldu!";
 ?>
