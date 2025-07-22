@@ -1,14 +1,16 @@
 name: Update M3U List
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # Her 12 saatte bir çalıştır (UTC zaman dilimi)
-  workflow_dispatch:         # Manuel tetikleme seçeneği
+    - cron: '0 */12 * * *'
 
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Tüm commit geçmişini çekmek için
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -16,12 +18,15 @@ jobs:
           php-version: '8.2'
 
       - name: Fetch and Save M3U
-        run: php fetch_m3u.php
+        run: |
+          php fetch_m3u.php
+          ls -la  # Dosyanın oluştuğunu kontrol et
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add kablotv_processed.m3u
-          git commit -m "Auto-update M3U list [$(date +'%Y-%m-%d %H:%M')]"
+          git status  # Değişiklikleri göster
+          git commit -m "Auto-update M3U [$(date +'%d.%m.%Y %H:%M')]"
           git push
