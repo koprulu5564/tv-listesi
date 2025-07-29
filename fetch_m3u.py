@@ -13,7 +13,7 @@ USER_AGENTS = [
 ]
 
 # M3U URL ve çıktı ayarları
-M3U_URL = "http://livaocak26.xyz:80/get.php?username=ayhanozdemir&password=KeFSMcZUWr&type=m3u_plus"
+M3U_URL = "http://xxip25.top:8080/get.php?username=m1pA6E&password=285356&type=m3u"
 OUTPUT_FILENAME = "tv_listesi.m3u"  # Yeni dosya adı
 
 def get_random_user_agent():
