@@ -30,7 +30,7 @@ def fetch_m3u(url, max_retries=3):
     return None
 
 if __name__ == "__main__":
-    M3U_URL = "http://spy17.eu/get.php?username=yesil123&password=12345&type=m3u_plus"
+    M3U_URL = "http://noxcon.cfd/get.php?username=mevlut73&password=73mevlut&type=m3u_plus"
     
     print("📡 M3U listesi alınıyor...")
     m3u_content = fetch_m3u(M3U_URL)
