@@ -13,7 +13,7 @@ USER_AGENTS = [
 ]
 
 # M3U URL ve çıktı ayarları
-M3U_URL = "https://raw.githubusercontent.com/koprulu5564/kablo-tv-api/refs/heads/main/kablo_tv.m3u"
+M3U_URL = "http://livaocak26.xyz:80/get.php?username=ayhanozdemir&password=KeFSMcZUWr&type=m3u_plus"
 OUTPUT_FILENAME = "tv_listesi.m3u"  # Yeni dosya adı
 
 def get_random_user_agent():
