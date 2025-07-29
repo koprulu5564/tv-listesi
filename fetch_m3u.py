@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Ayarlar
 SOURCE_URL = "http://spy17.eu/get.php?username=yesil123&password=yesil123&type=m3u_plus"  # HTTPS zorunlu!
-OUTPUT_FILE = "iptv_processed.m3u"
+OUTPUT_FILE = "kablotv_processed.m3u"
 TIMEOUT = 10  # Saniye
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
