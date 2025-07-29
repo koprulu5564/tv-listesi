@@ -13,7 +13,7 @@ USER_AGENTS = [
 ]
 
 # M3U URL ve çıktı ayarları
-M3U_URL = "http://spy17.eu/get.php?username=yesil123&password=12345&type=m3u_plus"
+M3U_URL = "https://raw.githubusercontent.com/koprulu5564/kablo-tv-api/refs/heads/main/kablo_tv.m3u"
 OUTPUT_FILENAME = "tv_listesi.m3u"  # Yeni dosya adı
 
 def get_random_user_agent():
