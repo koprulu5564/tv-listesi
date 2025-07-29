@@ -4,7 +4,7 @@ import sys
 from datetime import datetime
 
 # Ayarlar
-SOURCE_URL = "http://arox.cc/get.php?username=550711267795&password=550711267795&type=m3u_plus"  # HTTPS zorunlu!
+SOURCE_URL = "http://spy17.eu/get.php?username=Nihattemurer&password=17.11.2020&type=m3u_plus"  # HTTPS zorunlu!
 OUTPUT_FILE = "iptv_processed.m3u"
 TIMEOUT = 10  # Saniye
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
