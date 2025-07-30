@@ -13,7 +13,7 @@ USER_AGENTS = [
 ]
 
 # M3U URL ve çıktı ayarları
-M3U_URL = "http://xxip25.top:8080/get.php?username=m1pA6E&password=285356&type=m3u"
+M3U_URL = "http://noxcon.cfd/get.php?username=mevlut73&password=73mevlut&type=m3u_plus"
 OUTPUT_FILENAME = "tv_listesi.m3u"  # Yeni dosya adı
 
 def get_random_user_agent():
