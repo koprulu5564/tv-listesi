@@ -1582,9 +1582,7 @@ https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1749253905&st=NDt4t7T3L
 #EXTINF:-1 tvg-name="360 TV 1080p" tvg-id="f90b270d-c791-4029-81d9-994c81721fe7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",360 TV 1080p
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="TRT 4K" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TRT_4K.svg" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 4K
-https://live-cdn-65984.varplaycdn.cfd/trt4k/index.m3u8
-#EXTINF:-1 tvg-name="TRT 4K (1080P & 50FPS)" tvg-id="" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-4k.2aae74a.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 4K (1080P & 50FPS)
-https://live-cdn-65984.varplaycdn.cfd/trt4fhd/index.m3u8
+http://noxcon.cfd:80/ozkan43/43ozkan/849290
 #EXTINF:-1 tvg-name="Teve 2 1080p" tvg-id="c07b221f-26d8-44d2-a64a-2fac362ae90e" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Teve 2 1080p
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="GZT TV 1080p" tvg-id="1e73d8cb-c8a1-428e-98c0-314d59b18794" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/694px-GZT_logo.svg.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",GZT TV 1080p
