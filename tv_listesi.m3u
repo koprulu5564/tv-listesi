@@ -1722,7 +1722,7 @@ https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-name="TJK 2 TV YURTDIŞI 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/5nv9psz.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",TJK 2 TV YURTDIŞI 1080p
 https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
 #EXTINF:-1 tvg-name="TAY TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/p48esle.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",TAY TV 1080p
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCjkRA7KEdp7PDKDUs396XHg.m3u8
+http://78.128.125.60:9981/play/a01k/index.m3u8
 #EXTINF:-1 tvg-name="Briç ve Satranç TV" tvg-id="" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-name="S-SPORT PLUS 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S-SPORT PLUS 1080p
