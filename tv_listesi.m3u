@@ -339,12 +339,14 @@ https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
 http://78.128.125.60:9981/play/a01k/index.m3u8
 #EXTINF:-1 tvg-name="Briç ve Satranç TV" tvg-id="" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-name="S-SPORT PLUS 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S-SPORT PLUS 1080p
-https://goldvod.org/tv/vavoo?id=40360462190582d8e63fd1
 #EXTINF:-1 tvg-name="S Sport 1 1080p" tvg-id="807cfc1d-2420-4ae4-a1b8-14fb9d331def" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport 1 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="S Sport 2 1080p" tvg-id="f29b07a0-ed66-4324-bb69-c359435f3fa1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport 2 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+#EXTINF:-1 tvg-name="S Sport Plus" tvg-id="160" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport Plus
+#EXTVLCOPT:http-referrer=https://twitter.com/
+#EXTVLCOPT:http-user-agent=googleusercontent
+https://1.cf5-2c8.workers.dev/static/pl2.m3u8
 #EXTINF:-1 tvg-name="S Sport + Plus 1 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport + Plus 1 1080p
 #EXTVLCOPT:http-referrer=https://trgoals1351.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -355,6 +357,8 @@ https://goldvod.org/tv/vavoo?id=2559756791dcf166140367
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://trgoals1353.xyz//
 https://r0.4928d54d950ee70q17.lat/yayinex2.m3u8
+#EXTINF:-1 tvg-name="S-SPORT PLUS 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S-SPORT PLUS 1080p
+https://goldvod.org/tv/vavoo?id=40360462190582d8e63fd1
 #EXTINF:-1 tvg-name="S Sport +2 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +2 HD
 https://live-cdn-65984.varplaycdn.cfd/902/index.m3u8
 #EXTINF:-1 tvg-name="S Sport +3 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +3 HD
@@ -369,8 +373,6 @@ https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
 https://live-cdn-65984.varplaycdn.cfd/610/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 1080p" tvg-id="c9d84c8b-5742-48af-bbf1-ac7d176b3c7a" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",EUROSPORT 1 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport1hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="EUROSPORT 2 1080p" tvg-id="f9f3488e-105d-42ad-b5f5-a0cb3f082971" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",EUROSPORT 2 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="TRT HABER 1080p" tvg-id="b42386d3-7064-493e-8657-181947c1a520" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",TRT HABER 1080p
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 #EXTINF:-1 tvg-name="TRT Haber 720p" tvg-id="b42386d3-7064-493e-8657-181947c1a520" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",TRT Haber 720p
@@ -774,11 +776,11 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/spacetoon_stream/index.m3u8?wmsA
 #EXTINF:-1 tvg-name="Baby TV 1080p" tvg-id="6347e31b-aa14-437a-8902-5e8e2f57e6d1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2442b7b7-04da-41c1-a7ca-03466853040e.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",Baby TV 1080p
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network 720p" tvg-id="50f5f2ba-4f17-415a-8c23-1659197c9034" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",Cartoon Network 720p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cartoonnetwork_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+https://tv.arectv34.sbs/live/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk 720p" tvg-id="ffc2f4f8-3a39-4dd9-b5c7-3bd54a809b67" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",Minika Çocuk 720p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/minikacocuk_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Go 720p" tvg-id="c9cb24f9-62ab-4084-bd0e-44165640fb22" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",Minika Go 720p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/minikago_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Moonbug 1080p" tvg-id="5ca5c3ad-c6d6-4617-aa74-8ebf6ac80e97" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3b9d40e7-327e-4d51-977b-e46286eda12f.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",Moonbug 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/moonbugkids_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk 1080p" tvg-id="578155c5-e698-4a8a-b916-ed65fb977c78" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7e733bf8-6c0e-4d6e-b18a-5864e571894b.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",TRT Diyanet Çocuk 1080p
@@ -1222,29 +1224,31 @@ http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-name="AZ TV 720p" tvg-id="AZ TV 720p.tr" tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",AZ TV 720p
 https://str2.yodacdn.net/aztv_300_to_small/tracks-v1a1/mono.m3u8?token=3bca0c976a3b97d59b648152795045f9251c81be-260b09d01e979ea3e6e4bba302b1304d-1749317233000000-1749306433000
 #EXTINF:-1 tvg-name="İDMAN TV 1080p" tvg-id="" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",İDMAN TV 1080p
-http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16013.ts
+https://goldvod.org/tv/vavoo?id=2368422760ba45ce579307
 #EXTINF:-1 tvg-name="CBC SPORT 1080p" tvg-id="" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",CBC SPORT 1080p
-http://l1iptv.xyz/live/12unioniptv12/RhXNL2W8qeysv/16018.ts
+https://goldvod.org/tv/strm?id=5131
+#EXTINF:-1 tvg-name="CBC SPORT 720p" tvg-id="" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",CBC SPORT 720p
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="MUZ TV 1080p" tvg-id="" tvg-logo="https://www.muz-tv.az/assets/images/logo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",MUZ TV 1080p
 https://goldvod.org/tv/yoda?id=mtvaz
 #EXTINF:-1 tvg-name="BAKU TV 1080P" tvg-id="BAKU TV 1080P.tr" tvg-logo="https://baku.tv/assets/frontend/img/logo.svg" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",BAKU TV 1080P
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-name="Medeniyyet TV SD" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Medeniyyet TV SD
-https:\\goldvod.org\tv\az.php?id=medeniyet
-#EXTINF:-1 tvg-name="Medeniyyet TV SD [YEDEK]" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Medeniyyet TV SD [YEDEK]
-https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ATV AZAD TV 1080p" tvg-id="ATV AZAD TV 1080p.tr" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ATV AZAD TV 1080p
 http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/16045/index.m3u8
 #EXTINF:-1 tvg-name="ARB TV 1080p" tvg-id="" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ARB TV 1080p
 https://goldvod.org/tv/az.php?id=arbhd
 #EXTINF:-1 tvg-name="ARB TV 1080p [YEDEK]" tvg-id="" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ARB TV 1080p [YEDEK]
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-name="İctimai TV 720p" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",İctimai TV 720p
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet TV SD" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Medeniyyet TV SD
+https:\\goldvod.org\tv\az.php?id=medeniyet
+#EXTINF:-1 tvg-name="Medeniyyet TV SD [YEDEK]" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Medeniyyet TV SD [YEDEK]
+https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ARB 24 TV SD" tvg-id="" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ARB 24 TV SD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-name="ARB GÜNEŞ SD" tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ARB GÜNEŞ SD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-name="İctimai TV 1080p" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",İctimai TV 1080p
-http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2195/index.m3u8
 #EXTINF:-1 tvg-name="Kanal S 1080p" tvg-id="Kanal S.tr" tvg-logo="https://tr.canlitv.watch/channels/kanal-s-az.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Kanal S 1080p
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-name="XEZER TV SD" tvg-id="XezerTV.az" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5xSALweBiO_n7j_FBh1l_Q_M4sN0VtCD8g&s" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",XEZER TV SD
@@ -1305,6 +1309,8 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 #EXTINF:-1 tvg-name="ARI MUSIC 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/6z85zny.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",ARI MUSIC 720p
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
+#EXTINF:-1 tvg-name="VOSTOK TV SD" tvg-id="" tvg-logo="https://vostok.tv/wp-content/uploads/2025/02/weblogo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",VOSTOK TV SD
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=vLLBHMJRHo6oUXfEEkRMCA&e=1754575230&scheme=https
 #EXTINF:-1 tvg-name="CLUBBING TV 1080p" tvg-id="CLUBBING TV 1080p.tr" tvg-logo="https://i.hizliresim.com/dnu6s1c.png" group-title="🎵🎸🎻🎹 YABANCI MÜZİK KANALLARI 🎵🎸🎻🎹",CLUBBING TV 1080p
 https:\\d1j2csarxnwazk.cloudfront.net\v1\master\3722c60a815c199d9c0ef36c5b73da68a62b09d1\cc-uze1m6xh4fiyr-ssai-prd\master.m3u8
 #EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-id="NEWKPOP.us" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="🎵🎸🎻🎹 YABANCI MÜZİK KANALLARI 🎵🎸🎻🎹",NEW K-POP (1080p)
@@ -1857,6 +1863,8 @@ https://hls05.videopark.top/959935/index.m3u8
 https://dc03.jfvid.com/959931/index.m3u8
 #EXTINF:-1 tvg-name="Dünyalar Savaşı (War of the Worlds) [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/dunyalar-savasi-2025.jpg-thumb-detay.webp" group-title="🇹🇷⚡🎞️📽️ 2025 TÜRKÇE DUBLAJ FİLMLER 🇹🇷⚡🎞️📽️",Dünyalar Savaşı (War of the Worlds) [2025]
 https://srv10.cdnimages719.sbs/hls/waroftheworlds-2025-webdl-trdualmp4-r0wq4eYMNp9.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="The Pickup [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/the-pickup-2025.jpg-thumb-detay.webp" group-title="🇹🇷⚡🎞️📽️ 2025 TÜRKÇE DUBLAJ FİLMLER 🇹🇷⚡🎞️📽️",The Pickup [2025]
+https://srv12.cdnimages1876.sbs/hls/thepickup-2025-webdl-trdualmp4-q3wMZRe6CdA.mp4/txt/master.txt
 #EXTINF:-1 tvg-name="Çakallarla Dans 1 [2010]" tvg-id="" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/186681.jpg" group-title="🇹🇷⚡🎞️ TR YERLİ SERİ FİLMLER 🇹🇷⚡🎞️",Çakallarla Dans 1 [2010]
 https://vidmody.com/vs/tt1783423
 #EXTINF:-1 tvg-name="Çakallarla Dans 2 Hastasıyız Dede [2012]" tvg-id="" tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/92/84/89/20341252.jpg" group-title="🇹🇷⚡🎞️ TR YERLİ SERİ FİLMLER 🇹🇷⚡🎞️",Çakallarla Dans 2 Hastasıyız Dede [2012]
@@ -2159,3 +2167,7 @@ https://srv12.cdnimages1382.sbs/hls/sully-2016-bluray-trdualmp4-j3Ypm0DHEAH.mp4/
 https://srv12.cdnimages1917.sbs/hls/dejavu-2006-bluray-trdualmp4-G0NvSC37THD.mp4/txt/master.txt
 #EXTINF:-1 tvg-name="Limit Yok [2011]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/limitless-2011.jpg-thumb-detay.webp" group-title="🔥⚡🎞️ TÜRKÇE DUBLAJ FİLMLER 🔥⚡🎞️",Limit Yok [2011]
 https://srv9.cdnimages232.sbs/hls/limitless2011bluray1080pdualmp4-S5X1ToF49VF.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Thunderbolts [2025]" tvg-id="" tvg-logo="https://www.hdfilmcehennemi.ltd/thumb_/140x200-1/wp-content/uploads/2025/07/thunderbolts-izle.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Thunderbolts [2025]
+https://vidmody.com/vs/tt20969586/
+#EXTINF:-1 tvg-name="EUROSPORT 2 1080p" tvg-id="f9f3488e-105d-42ad-b5f5-a0cb3f082971" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",EUROSPORT 2 1080p
+https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjUgNTo0NjoxMSBQTSZoYXNoX3ZhbHVlPTA3VTNTMDM3N1pwcEFPWTNLSjNKNFE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
