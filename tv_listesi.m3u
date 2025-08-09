@@ -222,17 +222,21 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u
 #EXTINF:-1 tvg-name="beIN Sports Haber 1080p [YEDEK]" tvg-id="0bc43404-ef57-4136-8c19-09388e202330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports Haber 1080p [YEDEK]
 https://goldvod.org/tv/vavoo?id=2806079612d7dc0e47a926
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p
-https://goldvod.org/tv/vavoo?id=1536730627473741d29b73
+https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [50 FPS]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [50 FPS]
 https://goldvod.org/tv/vavoo?id=21134623980ed579742af1
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK]
-https://live-cdn-65984.varplaycdn.cfd/601/index.m3u8
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/39559
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK 2]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://trgoals1353.xyz//
 https://r0.4928d54d950ee70q17.lat/yayinzirve.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK 3]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK 3]
 https://goldvod.org/tv/strm?id=5062
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK 4]" tvg-id="149" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK 4]
+#EXTVLCOPT:http-referrer=https://twitter.com/
+#EXTVLCOPT:http-user-agent=googleusercontent
+https://1.cf5-2c8.workers.dev/static/bs11.m3u8?ad=random
 #EXTINF:-1 tvg-name="beIN Sports 2 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/tfu23k4.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 2 1080p
 https://goldvod.org/tv/vavoo?id=144724150649fb3ed7eec1
 #EXTINF:-1 tvg-name="beIN Sports 2 1080p [YEDEK 2]" tvg-id="" tvg-logo="https://i.hizliresim.com/tfu23k4.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 2 1080p [YEDEK 2]
@@ -469,8 +473,6 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-name="Sinema Tv 1080p" tvg-id="5d0ed324-9ad2-47b2-8dfe-ab7d54442399" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Tv 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgMjo1MToxMSBQTSZoYXNoX3ZhbHVlPUZRTDI4c3d0dWlSQVJRa01SNlJENHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1 tvg-name="Sinema Tv 2 1080p" tvg-id="" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Tv 2 1080p
-https://goldvod.org/tv/vavoo?id=2950605243455369fa6da
 #EXTINF:-1 tvg-name="Sinema Aile 1080p" tvg-id="94d87a64-efe2-45b2-a5fb-a286268da9d8" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aile 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgMjo1MToxMSBQTSZoYXNoX3ZhbHVlPUZRTDI4c3d0dWlSQVJRa01SNlJENHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 #EXTINF:-1 tvg-name="Sinema Aile 2 1080p" tvg-id="" tvg-logo="https://aile2.sinematv.com.tr/content/logo/SINEMATV-AILE-2-GRI.png?v=1.0.0.68" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aile 2 1080p
@@ -759,8 +761,6 @@ https://live-cdn-65984.varplaycdn.cfd/habitat/index.m3u8
 https://yayin30.haber100.com/live/womanlifetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Woman Tv 1080p" tvg-id="Woman Tv 1080p.tr" tvg-logo="https://womantvcomtr.teimg.com/womantv-com-tr/uploads/2024/07/layer-2.png" group-title="🇹🇷🦁🌲👩🖊️ TR BELGESEL & YAŞAM & EĞİTİM KANALLARI 🇹🇷🦁🌲👩🖊️",Woman Tv 1080p
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-#EXTINF:-1 tvg-name="Sinema Tv 1080p" tvg-id="5d0ed324-9ad2-47b2-8dfe-ab7d54442399" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/22c5fe05-d70b-4c68-98fb-03bae4870e81.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Tv 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="TRT MÜZİK 1080p" tvg-id="c9e5fdd4-c90e-4b82-a3ea-7b6642ef4768" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-muzik-televizyon-kanali.4fe1e86.png" group-title="🇹🇷🎵🎸🎻🎹 TR MÜZİK KANALLARI 🇹🇷🎵🎸🎻🎹",TRT MÜZİK 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/trtmuzik_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgMjo1MToxMCBQTSZoYXNoX3ZhbHVlPVdmTWxDVUR0QWIxRStuSWlYNEpTV3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 #EXTINF:-1 tvg-name="TRT Çocuk 1080p" tvg-id="d2a54f6c-c226-4ea9-85e2-8ebc5c5eb44d" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",TRT Çocuk 1080p
@@ -827,8 +827,6 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/langlab_stream/index.m3u8?wmsAut
 https://ottcdn.kablowebtv.net/live_turksat_sub3/lingotoons_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgMjo1MToxMSBQTSZoYXNoX3ZhbHVlPUZRTDI4c3d0dWlSQVJRa01SNlJENHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
 #EXTINF:-1 tvg-name="TinyTeen 1080p" tvg-id="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1b0a8967-61ef-4066-a422-2e4eccd18ec5.png" group-title="🇹🇷👶🍼 TR ÇOCUK KANALLARI 🇹🇷👶🍼",TinyTeen 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/tinyteen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC83LzIwMjUgMjo1MToxMSBQTSZoYXNoX3ZhbHVlPUZRTDI4c3d0dWlSQVJRa01SNlJENHc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1 tvg-name="Sinema Tv 2 1080p" tvg-id="" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Tv 2 1080p
-https://goldvod.org/tv/vavoo?id=2950605243455369fa6da
 #EXTINF:-1 tvg-name="TRT MÜZİK 720p" tvg-id="c9e5fdd4-c90e-4b82-a3ea-7b6642ef4768" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-muzik-televizyon-kanali.4fe1e86.png" group-title="🇹🇷🎵🎸🎻🎹 TR MÜZİK KANALLARI 🇹🇷🎵🎸🎻🎹",TRT MÜZİK 720p
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Türk 1080p" tvg-id="0ab0f933-cd79-436b-866c-5320e92da037" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/63d6800d-1ecb-40b6-bc2b-01a225f0d3ec.png" group-title="🇹🇷🎵🎸🎻🎹 TR MÜZİK KANALLARI 🇹🇷🎵🎸🎻🎹",Dream Türk 1080p
@@ -871,194 +869,10 @@ https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
 #EXTINF:-1 tvg-name="Can Tempo TV 720p" tvg-id="" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo.png" group-title="🇹🇷🎵🎸🎻🎹 TR MÜZİK KANALLARI 🇹🇷🎵🎸🎻🎹",Can Tempo TV 720p
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sinema Aile 1080p" tvg-id="94d87a64-efe2-45b2-a5fb-a286268da9d8" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c8283b71-81f8-4fc6-8e48-6bb8f7f49ad7.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aile 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Sinema Aile 2 1080p" tvg-id="" tvg-logo="https://aile2.sinematv.com.tr/content/logo/SINEMATV-AILE-2-GRI.png?v=1.0.0.68" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aile 2 1080p
-https://live-cdn-65984.varplaycdn.cfd/sinemaaile2/index.m3u8
 #EXTINF:-1 tvg-name="Türkiye Polis Radyosu" tvg-id="Türkiye Polis Radyosu.tr" tvg-logo="https://www.polisradyosu.pol.tr/kurumlar/polisradyosu.pol.tr/Logo/polisradyosu_img.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Türkiye Polis Radyosu
 https://m.egm.gov.tr:8093/;
 #EXTINF:-1 tvg-name="Kral Pop" tvg-id="Kral Pop.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
-#EXTINF:-1 tvg-name="Sinema Aksiyon 1080p" tvg-id="7e1bb5d4-415e-4812-bfcf-c992fcdde355" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/bd434731-0e47-4a37-997e-49f71340fcc6.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aksiyon 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Sinema Aksiyon 2 1080p" tvg-id="" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Aksiyon 2 1080p
-https://goldvod.org/tv/vavoo?id=34407115801c767459d612
-#EXTINF:-1 tvg-name="Sinema Yerli 1080p" tvg-id="9dc59d86-f1d8-4cc6-ad2c-d7a079d63e2f" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Yerli 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Sinema 1001 1080p" tvg-id="4f7afa48-aca3-4ac7-992f-865ecdbbbdb0" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema 1001 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Sinema 1002 1080p" tvg-id="" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema 1002 1080p
-https://goldvod.org/tv/vavoo?id=42690420442a797225e077
-#EXTINF:-1 tvg-name="Sinema Komedi 1080p" tvg-id="61a30c93-21d7-4663-8c6b-9340a4ac9075" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4145ea10-96ad-400d-8870-f22a075f4add.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Komedi 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Sinema Komedi 2 1080p" tvg-id="" tvg-logo="https://www.turksatkablonet.com/upload/medya/webp/p90/sinema-komedi-2_1.webp" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Sinema Komedi 2 1080p
-https://goldvod.org/tv/vavoo?id=4407749494f84856f03db
-#EXTINF:-1 tvg-name="FX 1080p" tvg-id="740a67bb-9117-4f18-851a-a532509d846c" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FX 1080p
-https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-name="Epic Drama 1080p" tvg-id="ebfba78a-6731-40b3-b752-75795280ed58" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Epic Drama 1080p
-https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjUgOTo0OTo0MSBBTSZoYXNoX3ZhbHVlPWFmQWFNNlZkMnJHS092U1dLNlBxOUE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
-#EXTINF:-1 tvg-name="Film Screen 1080p" tvg-id="c5bca4bc-2576-4e9a-a583-db7fe02d117a" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Film Screen 1080p
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES HD ACTION 1080p" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BeIN_MOVIES_Action-HD.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES HD ACTION 1080p
-https://tv.arectv34.sbs/live/bsaction1.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES HD ACTION 2 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/BeIN_MOVIES_Action-2_HD.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES HD ACTION 2 1080p
-https://live-cdn-65984.varplaycdn.cfd/bmaction2/index.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES HD PREMIERE 1080p" tvg-id="71" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES HD PREMIERE 1080p
-https://tv.arectv34.sbs/live/bspremier1.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES HD PREMIRE 2 1080p" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES HD PREMIRE 2 1080p
-https://goldvod.org/tv/vavoo?id=2244069093c6fbea6af4e9
-#EXTINF:-1 tvg-name="beIN BOX OFFİCE 1 720p" tvg-id="70" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/a5e035e5aad903052fdb35a3a7984518.jpg" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN BOX OFFİCE 1 720p
-https://tv.arectv34.sbs/live/box1.m3u8
-#EXTINF:-1 tvg-name="beIN BOX OFFICE 2 1080p" tvg-id="69" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aec5f81a9d58714b840be9a285928224.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN BOX OFFICE 2 1080p
-https://tv.arectv34.sbs/live/box2.m3u8
-#EXTINF:-1 tvg-name="beIN BOX OFFICE 3 1080p" tvg-id="68" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/7c52499be2693a149616127f02cc633a.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN BOX OFFICE 3 1080p
-https://tv.arectv34.sbs/live/box3.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES TURK 1080p" tvg-id="75" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/b2d030cf4ca567bf7c8358b15c8177a9.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES TURK 1080p
-https://tv.arectv34.sbs/live/bsturk.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES HD FAMILY 1080p" tvg-id="74" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES HD FAMILY 1080p
-https://tv.arectv34.sbs/live/bsfamily.m3u8
-#EXTINF:-1 tvg-name="beIN MOVIES STARS 1080p" tvg-id="72" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN MOVIES STARS 1080p
-https://tv.arectv34.sbs/live/bsstars.m3u8
-#EXTINF:-1 tvg-name="beIN SERIES HD COMEDY 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/nuv3rgv.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN SERIES HD COMEDY 1080p
-https://goldvod.org/tv/vavoo?id=31123966357c6cf9bebe55
-#EXTINF:-1 tvg-name="beIN SERIES HD DRAMA 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Bein_series_drama.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN SERIES HD DRAMA 1080p
-https://goldvod.org/tv/vavoo?id=12492711145e9f6607b9ba
-#EXTINF:-1 tvg-name="beIN Series 1 HD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/4dii8kz.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN Series 1 HD 1080p
-https://goldvod.org/tv/vavoo?id=21909222989587d08289a0
-#EXTINF:-1 tvg-name="beIN Series 2 HD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/3kccbon.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN Series 2 HD 1080p
-https://goldvod.org/tv/vavoo?id=3016529666dac6c6cef893
-#EXTINF:-1 tvg-name="beIN Series 3 HD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/eds6gd0.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN Series 3 HD 1080p
-https://goldvod.org/tv/vavoo?id=41664187788b1f13619a77
-#EXTINF:-1 tvg-name="beIN Series 4 HD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/79ogtgs.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",beIN Series 4 HD 1080p
-https://goldvod.org/tv/vavoo?id=12492711145e9f6607b9ba
-#EXTINF:-1 tvg-name="MovieSmart Türk 1080p" tvg-id="MOVIE_SMART_TURK_7_" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20TURK.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MovieSmart Türk 1080p
-https://goldvod.org/tv/vavoo?id=371939752224cf9f48680a
-#EXTINF:-1 tvg-name="Moviesmart Türk 720p" tvg-id="MovieSmart.Türk.tr" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Moviesmart Türk 720p
-https://tv.arectv34.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-name="MovieSmart Classic 1080p" tvg-id="MOVIE_SMART_CLASSIC_7_" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/MOVIESMART%20CLASSIC.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MovieSmart Classic 1080p
-https://goldvod.org/tv/vavoo?id=1337239933fee2e2ad02ff
-#EXTINF:-1 tvg-name="Dizi Smart Max 1080p" tvg-id="DIZI_SMART_MAX_7_" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/DIZISMART%20MAX.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Dizi Smart Max 1080p
-https://goldvod.org/tv/vavoo?id=4079530614434808c2d545
-#EXTINF:-1 tvg-name="Dizi Smart Premium 1080p" tvg-id="DIZI_SMART_PREMIUM_7_" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/null/DIZISMART%20PREMIUM.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Dizi Smart Premium 1080p
-https://goldvod.org/tv/vavoo?id=791616758e9ad4e5d14ac
-#EXTINF:-1 tvg-name="BYZ BOX AKSİYON 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/fh60t06.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",BYZ BOX AKSİYON 1080p
-https://tv.arectv34.sbs/live/sinemaaksiyon2.m3u8
-#EXTINF:-1 tvg-name="BYZ BOX KOMEDİ 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/8nfrmnk.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",BYZ BOX KOMEDİ 1080p
-https://tv.arectv34.sbs/live/sinemakomedi.m3u8
-#EXTINF:-1 tvg-name="Tabii TV 1080p" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Tabii TV 1080p
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-name="Tabii TV 1080p [YEDEK]" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6H34ziS3eIaNZtGlBy2b-nNRG34ormyZ1xbfTmMIS1RkY3qTRwChozrM&s=10" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Tabii TV 1080p [YEDEK]
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8?sid=aePzYBwko0uFy0f8miUVmA
-#EXTINF:-1 tvg-name="CINEBOX KORKU HD 1080p" tvg-id="53" tvg-logo="https://i.hizliresim.com/jeunj2e.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",CINEBOX KORKU HD 1080p
-https://tv.arectv34.sbs/live/sinema1001.m3u8
-#EXTINF:-1 tvg-name="HORROR 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/gsuhd1z.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HORROR 1 1080p
-https://goldvod.org/tv/vavoo?id=36119753123ae6db8d6aa3
-#EXTINF:-1 tvg-name="HORROR 2 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/gsuhd1z.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HORROR 2 1080p
-https://goldvod.org/tv/vavoo?id=15061057159a5b5905775c
-#EXTINF:-1 tvg-name="HORROR 3 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/gsuhd1z.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HORROR 3 1080p
-https://goldvod.org/tv/vavoo?id=2507102701cbf472a2900f
-#EXTINF:-1 tvg-name="HORROR 4 1080P" tvg-id="" tvg-logo="https://i.hizliresim.com/gsuhd1z.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HORROR 4 1080P
-https://goldvod.org/tv/vavoo?id=26787391883a74b37ce970
-#EXTINF:-1 tvg-name="HORROR 5 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/gsuhd1z.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HORROR 5 1080p
-https://goldvod.org/tv/vavoo?id=1392529514ac189e2e7f57
-#EXTINF:-1 tvg-name="FİLMBOX ULTRA HD" tvg-id="" tvg-logo="https://i.hizliresim.com/95upsx8.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX ULTRA HD
-http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823157.ts
-#EXTINF:-1 tvg-name="FİLMBOX HORROR 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/t46dim7.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX HORROR 1080p
-http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823163.ts
-#EXTINF:-1 tvg-name="FİLMBOX ACTİON 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/eft2n3f.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX ACTİON 1080p
-http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823159.ts
-#EXTINF:-1 tvg-name="FİLMBOX COMEDY 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/3vfakje.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX COMEDY 1080p
-https://goldvod.org/tv/vavoo?id=2089556265dc11d307f1d2
-#EXTINF:-1 tvg-name="FİLMBOX PREMİER 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/g9i3lgs.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX PREMİER 1080p
-http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823158.ts
-#EXTINF:-1 tvg-name="FİLMBOX DRAMA 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/ag3k8l5.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX DRAMA 1080p
-http://noxcon.cfd/live/tuncayylmaz/HkvCZS04kJ/823162.ts
-#EXTINF:-1 tvg-name="FIBERBOX FANTASTİK 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/17b9jt3.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FIBERBOX FANTASTİK 1080p
-https://goldvod.org/tv/vavoo?id=2267707661b1b04087783f
-#EXTINF:-1 tvg-name="HD DİNAMİK TÜRK 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/itswjmm.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HD DİNAMİK TÜRK 1080p
-https://goldvod.org/tv/vavoo?id=306993094e87153f850a8
-#EXTINF:-1 tvg-name="HD DİNAMİK KORKU 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/b1bxjkr.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HD DİNAMİK KORKU 1080p
-https://goldvod.org/tv/vavoo?id=432913286bea86829a356
-#EXTINF:-1 tvg-name="HD DİNAMİK YEŞİLÇAM 1080p" tvg-id="" tvg-logo="https://i.ibb.co/twhS6cj1/HD-D-NAM-K-YE-L-AM.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HD DİNAMİK YEŞİLÇAM 1080p
-https://goldvod.org/tv/vavoo?id=10475251687c872af961e7
-#EXTINF:-1 tvg-name="HD DİNAMİK WESTERN 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/adw1o3y.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",HD DİNAMİK WESTERN 1080p
-https://goldvod.org/tv/vavoo?id=726915072d8a227d2465c
-#EXTINF:-1 tvg-name="BEST HD SAVAŞ 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/8o5pak4.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",BEST HD SAVAŞ 1080p
-https://goldvod.org/tv/vavoo?id=1358616385fceaf46d8a85
-#EXTINF:-1 tvg-name="BEST HD IMBD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/6ggz1ps.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",BEST HD IMBD 1080p
-https://goldvod.org/tv/vavoo?id=196751630568bf810b2501
-#EXTINF:-1 tvg-name="FİLMBOX KADİR İNANIR 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/8180bfh.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",FİLMBOX KADİR İNANIR 1080p
-https://goldvod.org/tv/vavoo?id=3268085547d19087021d4e
-#EXTINF:-1 tvg-name="MAX TURK 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/i27s3dc.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MAX TURK 1080p
-https://goldvod.org/tv/vavoo?id=1222272481dbf0bf42474b
-#EXTINF:-1 tvg-name="MAX GOLD 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/mcez8hk.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MAX GOLD 1080p
-https://goldvod.org/tv/vavoo?id=326817499514eef5b1708b
-#EXTINF:-1 tvg-name="MAX VİZYON 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/5u9no58.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MAX VİZYON 1 1080p
-https://goldvod.org/tv/vavoo?id=3792548191c2937952950f
-#EXTINF:-1 tvg-name="MAX VİZYON 2 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/6sj1ydm.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MAX VİZYON 2 1080p
-https://goldvod.org/tv/vavoo?id=27796304791b878d8292aa
-#EXTINF:-1 tvg-name="MAX VİZYON 3 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/lfkoxj6.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MAX VİZYON 3 1080p
-https://goldvod.org/tv/vavoo?id=2563629631e1ee7080462b
-#EXTINF:-1 tvg-name="ENO AKSİYON 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/gj2fo0t.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO AKSİYON 720p
-https://goldvod.org/tv/vavoo?id=633768195f9070ceb86aa
-#EXTINF:-1 tvg-name="ENO VİZYON 1 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 1 720p
-https://goldvod.org/tv/vavoo?id=194974260303321378958f
-#EXTINF:-1 tvg-name="ENO VİZYON 2 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 2 720p
-https://goldvod.org/tv/vavoo?id=865520859c6bbf07ec7e9
-#EXTINF:-1 tvg-name="ENO VİZYON 3 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 3 720p
-https://goldvod.org/tv/vavoo?id=251061611546ed31b6efe
-#EXTINF:-1 tvg-name="ENO VİZYON 4 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 4 720p
-https://goldvod.org/tv/vavoo?id=3168156027c3f537f56216
-#EXTINF:-1 tvg-name="ENO VİZYON 5 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 5 720p
-https://goldvod.org/tv/vavoo?id=21761927152d445097856a
-#EXTINF:-1 tvg-name="ENO VİZYON 6 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 6 720p
-https://goldvod.org/tv/vavoo?id=33233577239240c314dfbf
-#EXTINF:-1 tvg-name="ENO VİZYON 7 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 7 720p
-https://goldvod.org/tv/vavoo?id=42188317874f51a19751f3
-#EXTINF:-1 tvg-name="ENO VİZYON 8 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 8 720p
-https://goldvod.org/tv/vavoo?id=2032587898b52506d2689e
-#EXTINF:-1 tvg-name="ENO VİZYON 9 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 9 720p
-https://goldvod.org/tv/vavoo?id=1145503178c2e0573bf522
-#EXTINF:-1 tvg-name="ENO VİZYON 10 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 10 720p
-https://goldvod.org/tv/vavoo?id=163538435217d39a3e3231
-#EXTINF:-1 tvg-name="ENO VİZYON 11 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 11 720p
-https://goldvod.org/tv/vavoo?id=1545196944211e37e5976c
-#EXTINF:-1 tvg-name="ENO VİZYON 12 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 12 720p
-https://goldvod.org/tv/vavoo?id=46515385696f4c1d2bc7d
-#EXTINF:-1 tvg-name="ENO VİZYON 13 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 13 720p
-https://goldvod.org/tv/vavoo?id=2499369696c997fc54b84b
-#EXTINF:-1 tvg-name="ENO VİZYON 14 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/so1z46x.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ENO VİZYON 14 720p
-https://goldvod.org/tv/vavoo?id=28454060321e36492870d4
-#EXTINF:-1 tvg-name="VİZİ SİNEMA TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/7xpn0nz.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",VİZİ SİNEMA TV 1080p
-https://goldvod.org/tv/uyanik?id=94
-#EXTINF:-1 tvg-name="VİZİ TÜRK KOMEDİ TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/qc6vpeu.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",VİZİ TÜRK KOMEDİ TV 1080p
-https://goldvod.org/tv/uyanik?id=10
-#EXTINF:-1 tvg-name="VİZİ TÜRK KLASİK TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/cuqynnw.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",VİZİ TÜRK KLASİK TV 1080p
-https://goldvod.org/tv/uyanik?id=11
-#EXTINF:-1 tvg-name="Türk Sinema 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/7yk4tj9.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Türk Sinema 720p
-https://tinyurl.com/35j8yrpz
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 1" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 1
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 2" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 2
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCHumSHRFQ8skiHTY75sxytQ.m3u8
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 3" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 3
-https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCulg-mlXf314L1pemPqCVng.m3u8
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 4" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 4
-http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/43127.ts
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 5" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 5
-http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/90885.ts
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 6" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 6
-http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/20964.ts
-#EXTINF:-1 tvg-name="KEMAL SUNAL TV 7" tvg-id="" tvg-logo="https://i.hizliresim.com/pkf3its.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",KEMAL SUNAL TV 7
-http://lionking.proxvip.xyz:2095/live/vlkn2282/vlk.56/11137.ts
-#EXTINF:-1 tvg-name="DİZİ TV 1080p" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNA-69YzZJQiXbmQ6dtQ4x8QptS1fQg6_BplCog8mCTiUgIQlTOi9QgZM&s=10" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",DİZİ TV 1080p
-https://live-cdn-65984.varplaycdn.cfd/dizitv/index.m3u8
-#EXTINF:-1 tvg-name="SDM TV SİNEMA KEYFİ 576p" tvg-id="" tvg-logo="https://i.hizliresim.com/b6vpmd5.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",SDM TV SİNEMA KEYFİ 576p
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="İSVİÇRE TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/qg54j1v.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",İSVİÇRE TV 720p
-https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="SUPER TURK TV HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ewi94xx.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",SUPER TURK TV HD
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 tvg-name="Radyo Seymen" tvg-id="Radyo Seymen.tr" tvg-logo="https://radyoseymen.com.tr/wp-content/uploads/2023/04/radyo-seymen-logo1.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Radyo Seymen
 https://yayin.radyoseymen.com.tr:1070/stream
 #EXTINF:-1 tvg-name="Best Fm" tvg-id="Best Fm.tr" tvg-logo="https://www.bestfm.com.tr/wp-content/uploads/2025/02/best-slider.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Best Fm
@@ -1171,22 +985,6 @@ https://24arabesk.80.yayin.com.tr//stream
 https://yayin.mobilradyo.com.tr:8024/;
 #EXTINF:-1 tvg-name="Halk Radyo" tvg-id="" tvg-logo="https://www.halkradyo.com/halk-radyo.jpg" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Halk Radyo
 https://anadolu.liderhost.com.tr:10876/;
-#EXTINF:-1 tvg-name="SUPER TURK MAX TV HD" tvg-id="" tvg-logo="https://i.hizliresim.com/8z9mxbm.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",SUPER TURK MAX TV HD
-http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1 tvg-name="TİVİ 6 720p" tvg-id="98caab1b-753c-40fd-a75a-6dd1141abdb3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivi-6-tr.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",TİVİ 6 720p
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="TiviTürk 1080p" tvg-id="" tvg-logo="https://canlitvulusal.tr/wp-content/uploads/2023/10/tiviturk-logo-png-tv.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",TiviTürk 1080p
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-name="ANADOLUM TV 720p" tvg-id="" tvg-logo="https://anadolumtv.com.tr/wp-content/uploads/2025/03/anadolum-logoyeni.jpg" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ANADOLUM TV 720p
-https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist_w322311661.m3u8
-#EXTINF:-1 tvg-name="Bi KANAL 720p" tvg-id="" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png?v=9" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",Bi KANAL 720p
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
-#EXTINF:-1 tvg-name="ÖNDE TV 1080p" tvg-id="" tvg-logo="https://www.ondetv.com/images/genel/ondeust.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",ÖNDE TV 1080p
-https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="MEGA TV CINEMA 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/1wf25p2.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",MEGA TV CINEMA 720p
-https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="YANSIMA SİNEMA 576p" tvg-id="" tvg-logo="https://i.hizliresim.com/58plmf6.png" group-title="🇹🇷🎥🎦🎬 TR DİZİ & SİNEMA KANALLARI 🇹🇷🎥🎦🎬",YANSIMA SİNEMA 576p
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 #EXTINF:-1 tvg-name="DİYANET TV 1080p" tvg-id="224c9da4-890f-4cec-aee9-b790d145348c" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUWv0dZTGCpF0dgw0JoE9Kr5MAeAnb6MkSQ&s" group-title="🇹🇷 🕌🕋 TR DİNİ KANALLAR 🇹🇷🕌🕋",DİYANET TV 1080p
 https:\\eustr73.mediatriple.net\videoonlylive\mtikoimxnztxlive\broadcast_5e3bf95a47e07.smil\playlist.m3u8
 #EXTINF:-1 tvg-name="SEMERKAND TV 1080p" tvg-id="" tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png" group-title="🇹🇷 🕌🕋 TR DİNİ KANALLAR 🇹🇷🕌🕋",SEMERKAND TV 1080p
