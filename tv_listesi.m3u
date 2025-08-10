@@ -217,6 +217,8 @@ https://yayin1.canlitv.fun/live/gozdetv.stream/chunklist_w167650949.m3u8
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="MTürk TV 720p" tvg-id="" tvg-logo="https://i.imgur.com/xj1gvrq.png" group-title="🇹🇷💒🏠🏯 TR YEREL KANALLAR 🇹🇷💒🏠🏯",MTürk TV 720p
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 6 1080p" tvg-id="" tvg-logo="https://www.kanal6tv.com/wp-content/uploads/2021/07/cropped-CHANNEL6TV_LOGO-2-1.png" group-title="🇹🇷💒🏠🏯 TR YEREL KANALLAR 🇹🇷💒🏠🏯",Kanal 6 1080p
+https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Haber 1080p" tvg-id="0bc43404-ef57-4136-8c19-09388e202330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports Haber 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgOTo0MDoyMyBBTSZoYXNoX3ZhbHVlPTRvVE9yTXZsSmk1SzBYRmpMZGNuaVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="beIN Sports Haber 1080p [YEDEK]" tvg-id="0bc43404-ef57-4136-8c19-09388e202330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports Haber 1080p [YEDEK]
@@ -224,7 +226,7 @@ https://goldvod.org/tv/vavoo?id=2806079612d7dc0e47a926
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p
 https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [50 FPS]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [50 FPS]
-https://goldvod.org/tv/vavoo?id=21134623980ed579742af1
+https://goldvod.org/tv/vavoo?id=2113462398d8dd57a8ea73
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK]
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/39559
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK 2]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK 2]
@@ -1005,6 +1007,8 @@ https://yayin30.haber100.com/live/kudustv/chunklist_w218028649.m3u8
 https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="AL ZAHRA TV TÜRKÇE 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/11qi7vl.jpg" group-title="🇹🇷 🕌🕋 TR DİNİ KANALLAR 🇹🇷🕌🕋",AL ZAHRA TV TÜRKÇE 1080p
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/chunks.m3u8
+#EXTINF:-1 tvg-name="Rehber TV 720p" tvg-id="" tvg-logo="https://res.cloudinary.com/rehbertv/image/upload/v1709735756/rehber_Logo_Yeni_20e8e49a20.png" group-title="🇹🇷 🕌🕋 TR DİNİ KANALLAR 🇹🇷🕌🕋",Rehber TV 720p
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ELojim Relax TV 1" tvg-id="" tvg-logo="https://i.hizliresim.com/ow5mn4l.png" group-title="🔥⚡🏝️🎧 ELojim Relax TV 🔥⚡🏝️🎧",ELojim Relax TV 1
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
 #EXTINF:-1 tvg-name="ELojim Relax TV 2" tvg-id="" tvg-logo="https://i.hizliresim.com/ow5mn4l.png" group-title="🔥⚡🏝️🎧 ELojim Relax TV 🔥⚡🏝️🎧",ELojim Relax TV 2
@@ -1109,6 +1113,8 @@ http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1 tvg-name="VOSTOK TV SD" tvg-id="" tvg-logo="https://vostok.tv/wp-content/uploads/2025/02/weblogo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",VOSTOK TV SD
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=vLLBHMJRHo6oUXfEEkRMCA&e=1754575230&scheme=https
+#EXTINF:-1 tvg-name="Kanal 35 720p" tvg-id="" tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png" group-title="🇦🇿 AZERBAYCAN KANALLARI 🇦🇿",Kanal 35 720p
+https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="CLUBBING TV 1080p" tvg-id="CLUBBING TV 1080p.tr" tvg-logo="https://i.hizliresim.com/dnu6s1c.png" group-title="🎵🎸🎻🎹 YABANCI MÜZİK KANALLARI 🎵🎸🎻🎹",CLUBBING TV 1080p
 https:\\d1j2csarxnwazk.cloudfront.net\v1\master\3722c60a815c199d9c0ef36c5b73da68a62b09d1\cc-uze1m6xh4fiyr-ssai-prd\master.m3u8
 #EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-id="NEWKPOP.us" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="🎵🎸🎻🎹 YABANCI MÜZİK KANALLARI 🎵🎸🎻🎹",NEW K-POP (1080p)
