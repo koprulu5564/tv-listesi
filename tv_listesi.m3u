@@ -3,10 +3,10 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT 1 720p" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 720p
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT 1 YURTDIŞI" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 YURTDIŞI
-http://162.212.179.33:80/dvrfl05/gin-trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-name="Atv 1080p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 1080p
 http://176.65.146.123:6001/play/a01t/index.m3u8
+#EXTINF:-1 tvg-name="TRT 1 YURTDIŞI" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 YURTDIŞI
+http://162.212.179.33:80/dvrfl05/gin-trt1eu/playlist.m3u8
 #EXTINF:-1 tvg-name="Atv 720p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 720p
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="Kanal D 1080p" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal D 1080p
@@ -225,6 +225,10 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u
 https://goldvod.org/tv/vavoo?id=2806079612d7dc0e47a926
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p
 https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Zirve]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Zirve]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://1031kralbettv.com/
+https://three.zirvestream4.cfd/yayinzirve.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [50 FPS]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [50 FPS]
 https://goldvod.org/tv/vavoo?id=2113462398d8dd57a8ea73
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK]
@@ -353,13 +357,13 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/ssport2_stream/index.m3u8?wmsAut
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
 https://1.cf5-2c8.workers.dev/static/pl2.m3u8
-#EXTINF:-1 tvg-name="S Sport + Plus 1 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport + Plus 1 1080p
-#EXTVLCOPT:http-referrer=https://trgoals1351.xyz/
+#EXTINF:-1 tvg-name="S Sport Plus 1 1080p [Zirve]" tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport Plus 1 1080p [Zirve]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8
-#EXTINF:-1 tvg-name="S Sport + Plus 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport + Plus 1 1080p [YEDEK]
+#EXTVLCOPT:http-referer=https://1031kralbettv.com/
+https://three.zirvestream4.cfd/yayinex1.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport Plus 1 1080p [YEDEK]
 https://goldvod.org/tv/vavoo?id=2559756791dcf166140367
-#EXTINF:-1 tvg-name="S Sport + Plus 1 1080p [YEDEK 2]" tvg-id="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport + Plus 1 1080p [YEDEK 2]
+#EXTINF:-1 tvg-name="S Sport Plus 1 1080p [YEDEK 2]" tvg-id="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport Plus 1 1080p [YEDEK 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://trgoals1353.xyz//
 https://r0.4928d54d950ee70q17.lat/yayinex2.m3u8
