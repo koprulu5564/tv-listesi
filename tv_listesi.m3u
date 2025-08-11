@@ -3,10 +3,10 @@
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT 1 720p" tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 720p
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Atv 1080p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 1080p
-http://176.65.146.123:6001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-name="TRT 1 YURTDIŞI" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",TRT 1 YURTDIŞI
 http://162.212.179.33:80/dvrfl05/gin-trt1eu/playlist.m3u8
+#EXTINF:-1 tvg-name="Atv 1080p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 1080p
+http://176.65.146.123:6001/play/a01t/index.m3u8
 #EXTINF:-1 tvg-name="Atv 720p" tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Atv 720p
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="Kanal D 1080p" tvg-id="9433a6db-a601-49e8-a298-ce13b553e44b" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="🇹🇷 TR ULUSAL KANALLAR 🇹🇷",Kanal D 1080p
@@ -225,10 +225,14 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/beinsportshaber_stream/index.m3u
 https://goldvod.org/tv/vavoo?id=2806079612d7dc0e47a926
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p
 https://goldvod.org/tv/vavoo?id=1453692314f52730c50395
-#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Zirve]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Zirve]
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [Zirve]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [Zirve]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referer=https://1031kralbettv.com/
 https://three.zirvestream4.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 1080p [TR GOALS]" tvg-id="1" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [TR GOALS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://trgoals1362.xyz/
+https://one.4928d54d950ee70q21.lat/yayin1.m3u8
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [50 FPS]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [50 FPS]
 https://goldvod.org/tv/vavoo?id=2113462398d8dd57a8ea73
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK]" tvg-id="" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK]
@@ -369,14 +373,6 @@ https://goldvod.org/tv/vavoo?id=2559756791dcf166140367
 https://r0.4928d54d950ee70q17.lat/yayinex2.m3u8
 #EXTINF:-1 tvg-name="S-SPORT PLUS 1080p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S-SPORT PLUS 1080p
 https://goldvod.org/tv/vavoo?id=40360462190582d8e63fd1
-#EXTINF:-1 tvg-name="S Sport +2 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +2 HD
-https://live-cdn-65984.varplaycdn.cfd/902/index.m3u8
-#EXTINF:-1 tvg-name="S Sport +3 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-S_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +3 HD
-https://live-cdn-65984.varplaycdn.cfd/903/index.m3u8
-#EXTINF:-1 tvg-name="S Sport +4 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-logoS_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +4 HD
-https://live-cdn-65984.varplaycdn.cfd/904/index.m3u8
-#EXTINF:-1 tvg-name="S Sport +5 HD" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/250px-logoS_Sport_Plus_Logo.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",S Sport +5 HD
-https://live-cdn-65984.varplaycdn.cfd/905/index.m3u8
 #EXTINF:-1 tvg-name="SPOR SMART 1080p" tvg-id="SPOR SMART 1080p.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",SPOR SMART 1080p
 https://live-cdn-65984.varplaycdn.cfd/609/index.m3u8
 #EXTINF:-1 tvg-name="SPOR SMART 2 1080p" tvg-id="SPOR SMART 2 1080p.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",SPOR SMART 2 1080p
@@ -420,13 +416,13 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-name="Lider Haber 1080p" tvg-id="4d2af840-c996-43d6-a59a-2c71c1971c00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Lider Haber 1080p
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="KRT TV 1080P" tvg-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",KRT TV 1080P
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgOTo0MDoyMyBBTSZoYXNoX3ZhbHVlPTRvVE9yTXZsSmk1SzBYRmpMZGNuaVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="ÜLKE TV 1080p" tvg-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",ÜLKE TV 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgOTo0MDoyMyBBTSZoYXNoX3ZhbHVlPTRvVE9yTXZsSmk1SzBYRmpMZGNuaVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="ÜLKE TV 720p" tvg-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",ÜLKE TV 720p
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Halk TV 1080p" tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Halk TV 1080p
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="Halk TV 1080p" tvg-id="" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Halk TV 1080p
+https://ottcdn.kablowebtv.net/live_turksat_sub3/halktv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgOTo0MDoyMiBBTSZoYXNoX3ZhbHVlPXk3TEp3Z2c4UVJkcThFbFZiZnI5Vnc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjY=
 #EXTINF:-1 tvg-name="HABER GLOBAL 1080p" tvg-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",HABER GLOBAL 1080p
 http://176.65.146.123:6003/play/a00z/index.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL 720p" tvg-id="247a84cd-cdad-4557-ade7-297f3e9ff1af" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",HABER GLOBAL 720p
@@ -762,7 +758,7 @@ http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b31280
 #EXTINF:-1 tvg-name="ÜSKÜDAR ÜNİVERSİTESİ [ÜÜ] TV 1080p" tvg-id="" tvg-logo="https://tv.uskudar.edu.tr/assets/img/uskudar-televizyonu-logo.png" group-title="🇹🇷🦁🌲👩🖊️ TR BELGESEL & YAŞAM & EĞİTİM KANALLARI 🇹🇷🦁🌲👩🖊️",ÜSKÜDAR ÜNİVERSİTESİ [ÜÜ] TV 1080p
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/chunklist_w2059611831.m3u8
 #EXTINF:-1 tvg-name="HABİTAT TV 1080p" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9Rkz4TvvNsusfYp3BW_GjGGekvWyfokPuxb-x3UiS9gYKX_78hTKaRN7&s=10" group-title="🇹🇷🦁🌲👩🖊️ TR BELGESEL & YAŞAM & EĞİTİM KANALLARI 🇹🇷🦁🌲👩🖊️",HABİTAT TV 1080p
-https://live-cdn-65984.varplaycdn.cfd/habitat/index.m3u8
+http://spectreu.com:8080/Ramadanbey/VDsSXgkdCo/203606
 #EXTINF:-1 tvg-name="WOMAN LIFE TV 1080p" tvg-id="" tvg-logo="https://i.ibb.co/YQtd480/wlife.jpg" group-title="🇹🇷🦁🌲👩🖊️ TR BELGESEL & YAŞAM & EĞİTİM KANALLARI 🇹🇷🦁🌲👩🖊️",WOMAN LIFE TV 1080p
 https://yayin30.haber100.com/live/womanlifetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Woman Tv 1080p" tvg-id="Woman Tv 1080p.tr" tvg-logo="https://womantvcomtr.teimg.com/womantv-com-tr/uploads/2024/07/layer-2.png" group-title="🇹🇷🦁🌲👩🖊️ TR BELGESEL & YAŞAM & EĞİTİM KANALLARI 🇹🇷🦁🌲👩🖊️",Woman Tv 1080p
