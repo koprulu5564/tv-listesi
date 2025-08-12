@@ -246,7 +246,7 @@ https://goldvod.org/tv/strm?id=5062
 #EXTINF:-1 tvg-name="beIN Sports 1 1080p [YEDEK 4]" tvg-id="149" tvg-logo="https://i.hizliresim.com/bu0kr23.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 1 1080p [YEDEK 4]
 #EXTVLCOPT:http-referrer=https://twitter.com/
 #EXTVLCOPT:http-user-agent=googleusercontent
-https://1.cf5-2c8.workers.dev/static/bs11.m3u8?ad=random
+http://104.238.31.254:8080/UfKuyucu45/4TsjMs2ksrvT/194333
 #EXTINF:-1 tvg-name="beIN Sports 2 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/tfu23k4.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 2 1080p
 https://goldvod.org/tv/vavoo?id=144724150649fb3ed7eec1
 #EXTINF:-1 tvg-name="beIN Sports 2 1080p [YEDEK 2]" tvg-id="" tvg-logo="https://i.hizliresim.com/tfu23k4.jpg" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports 2 1080p [YEDEK 2]
@@ -1973,5 +1973,33 @@ https://srv12.cdnimages1917.sbs/hls/dejavu-2006-bluray-trdualmp4-G0NvSC37THD.mp4
 https://srv9.cdnimages232.sbs/hls/limitless2011bluray1080pdualmp4-S5X1ToF49VF.mp4/txt/master.txt
 #EXTINF:-1 tvg-name="Thunderbolts [2025]" tvg-id="" tvg-logo="https://www.hdfilmcehennemi.ltd/thumb_/140x200-1/wp-content/uploads/2025/07/thunderbolts-izle.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Thunderbolts [2025]
 https://vidmody.com/vs/tt20969586/
+#EXTINF:-1 tvg-name="Barron's Cove [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/barrons-cove-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Barron's Cove [2025]
+https://srv12.cdnimages264.sbs/hls/barronscove-2024-webdlmp4-clTEsISHpQS.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Neighborhood Watch [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/neighborhood-watch-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Neighborhood Watch [2025]
+https://srv10.cdnimages91.sbs/hls/neighborhoodwatch-2025-altyazimp4-uTvjKGaGfkS.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="The Occupant [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/the-occupant-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",The Occupant [2025]
+https://srv10.cdnimages1863.sbs/hls/theoccupant-2025-altyazimp4-icX1eSCp3uV.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Abraham's Boys: A Dracula Story [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/abrahams-boys-a-dracula-story-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Abraham's Boys: A Dracula Story [2025]
+https://srv12.cdnimages239.sbs/hls/abrahamsboysadraculastory-2025-altyazimp4-HnRgHuj2YEU.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="My Deer Boy [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/my-deer-boy-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",My Deer Boy [2025]
+https://srv12.cdnimages1354.sbs/hls/olen-2025-webdlmp4-5wIGFbeCfKA.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Heldin [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/heldin-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Heldin [2025]
+https://srv12.cdnimages2105.sbs/hls/heldin-2025-bluraymp4-jdZ3TOwaVWD9.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Scorched Earth [2024]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/verbrannte-erde-2024.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Scorched Earth [2024]
+https://srv10.cdnimages91.sbs/hls/verbrannteerde-2024-webdmp4-guiVHePVYTG.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="The Master and Margarita [2024]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/the-master-and-margarita-2024.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",The Master and Margarita [2024]
+https://srv13.cdnimages1333.sbs/hls/themasterandmargarita-2024-webmp4-LLLmeMsUIK0.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Love is Evil [2024]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/love-is-evil-2024.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Love is Evil [2024]
+https://srv10.cdnimages1686.sbs/hls/loveisevil-2024-webmp4-s1kTkJaenNN.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="The Surrender [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/the-surrender-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",The Surrender [2025]
+https://balancehls10.playmix.uno/hls/thesurrender-2025-webdlmp4-Q9UwzXAyTze4.mp4/master.txt
+#EXTINF:-1 tvg-name="Yüzyıl İleri (Guest from the Future) [2024]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/yuzyil-ileri-2024.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Yüzyıl İleri (Guest from the Future) [2024]
+https://srv10.cdnimages1897.sbs/hls/guestfromthefuture-2024-webdlmp4-UKKuoArNkJZ.mp4/txt/master.txt
+#EXTINF:-1 tvg-name="Gazer [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/gazer-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Gazer [2025]
+https://hls10.playmix.uno/hls/gazer-2025-altyazimp4-vrWPqbsL2du.mp4/master.txt
+#EXTINF:-1 tvg-name="Beyond The Wall [2022]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/beyond-the-wall-2023.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",Beyond The Wall [2022]
+https://hls10.playmix.uno/hls/beyondthewall-2022-webdlmp4-dW4joXSN2R3.mp4/master.txt
+#EXTINF:-1 tvg-name="A Girl Named Willow [2025]" tvg-id="" tvg-logo="https://filmmakinesi.de/uploads/postlar/afis/ein-madchen-namens-willow-2025.jpg-thumb-detay.webp" group-title="💣️⚡🔥 TR ALTYAZILI FİLMLER 💣️⚡🔥",A Girl Named Willow [2025]
+https://balancehls10.playmix.uno/hls/agirlnamedwillow-2025-bluraymp4-RO0jOLWQJna.mp4/master.txt
 #EXTINF:-1 tvg-name="EUROSPORT 2 1080p" tvg-id="f9f3488e-105d-42ad-b5f5-a0cb3f082971" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",EUROSPORT 2 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/eurosport2hd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDI1IDU6NDE6NDEgQU0maGFzaF92YWx1ZT1LMzQvZUQwQ1ZiTW5wdWRzREUwZ2lRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC42
