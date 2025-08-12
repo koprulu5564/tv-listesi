@@ -297,6 +297,10 @@ https://tv1.arectv30.sbs/live/bm2.m3u8
 https://live-cdn-65984.varplaycdn.cfd/802/index.m3u8
 #EXTINF:-1 tvg-name="beIN Sports Max 2 1080p [YEDEK 2]" tvg-id="" tvg-logo="https://r.resimlink.com/h5LrmICka3SH.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",beIN Sports Max 2 1080p [YEDEK 2]
 https://goldvod.org/tv/strm?id=5068
+#EXTINF:-1 tvg-name="EXXEN SPOR 1 1080p [MAÇ SAATİ]" tvg-id="29" tvg-logo="https://i.hizliresim.com/8i7wqjt.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",EXXEN SPOR 1 1080p [MAÇ SAATİ]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referer=https://1031kralbettv.com/
+https://three.zirvestream4.cfd/yayinex1.m3u8
 #EXTINF:-1 tvg-name="TİVİBU SPOR 1080p" tvg-id="" tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20221230862759.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",TİVİBU SPOR 1080p
 https://live-cdn-65984.varplaycdn.cfd/701/index.m3u8
 #EXTINF:-1 tvg-name="TİVİBU SPOR 1 1080p" tvg-id="" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230125889178.png" group-title="🇹🇷⚽🏀🏐🥎 TR SPOR KANALLARI 🇹🇷⚽🏀🏐🥎",TİVİBU SPOR 1 1080p
