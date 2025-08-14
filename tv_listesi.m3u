@@ -420,7 +420,7 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-name="Lider Haber 1080p" tvg-id="4d2af840-c996-43d6-a59a-2c71c1971c00" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPetOFCn_nsYX6EVJwnZujeJFxlUHLm-Htgw&s" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",Lider Haber 1080p
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-name="KRT TV 1080P" tvg-id="68685a2d-089b-4b0b-a4e9-99b4910fa1b8" tvg-logo="https://i.krttv.com.tr/storage/files/images/2024/04/17/logo-at-2x-3j7l.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",KRT TV 1080P
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/krttv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDU6MTA6NDAgUE0maGFzaF92YWx1ZT0rRWJsTzd3SEt2ekQ4ck93KzlqS2d3PT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC42
 #EXTINF:-1 tvg-name="ÜLKE TV 1080p" tvg-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",ÜLKE TV 1080p
 https://ottcdn.kablowebtv.net/live_turksat_sub3/ulketv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI1IDU6MTA6MzkgUE0maGFzaF92YWx1ZT1NcTBaT0xyWlExeDZaWkx6MnBXd3JRPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC42
 #EXTINF:-1 tvg-name="ÜLKE TV 720p" tvg-id="0b38d5bd-5cc5-4595-8e2d-bc7a8119bb57" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/2560px-%C3%9Clke_TV_logo.svg.png" group-title="🇹🇷📰📺 TR HABER KANALLARI 🇹🇷📰📺",ÜLKE TV 720p
@@ -990,7 +990,7 @@ https://moondigitaledge.radyotvonline.net/ankarahavalari/playlist.m3u8
 #EXTINF:-1 tvg-name="24 Arabesk Radyo" tvg-id="" tvg-logo="https://radiotrucker.com/images/og/radyo-24-arabesk-radio.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",24 Arabesk Radyo
 https://24arabesk.80.yayin.com.tr//stream
 #EXTINF:-1 tvg-name="Radyo Kulüp" tvg-id="" tvg-logo="https://www.radyokulup.com.tr/files/uploads/logo/842461a5c2.png" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Radyo Kulüp
-https://yayin.mobilradyo.com.tr:8024/;
+http://radyo.yayin.com.tr:5894/;stream.mp3
 #EXTINF:-1 tvg-name="Halk Radyo" tvg-id="" tvg-logo="https://www.halkradyo.com/halk-radyo.jpg" group-title="🇹🇷📻 TR RADYO KANALLARI 🇹🇷📻",Halk Radyo
 https://anadolu.liderhost.com.tr:10876/;
 #EXTINF:-1 tvg-name="DİYANET TV 1080p" tvg-id="224c9da4-890f-4cec-aee9-b790d145348c" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWUWv0dZTGCpF0dgw0JoE9Kr5MAeAnb6MkSQ&s" group-title="🇹🇷 🕌🕋 TR DİNİ KANALLAR 🇹🇷🕌🕋",DİYANET TV 1080p
