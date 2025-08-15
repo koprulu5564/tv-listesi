@@ -13,7 +13,7 @@ USER_AGENTS = [
 ]
 
 # M3U URL ve çıktı ayarları
-M3U_URL = "https://tinyurl.com/HepsiBirArada"
+M3U_URL = "http://kingtr.xyz:8080/get.php?username=UfKuyucu45&password=4TsjMs2ksrvT&type=m3u_plus"
 OUTPUT_FILENAME = "tv_listesi.m3u"  # Yeni dosya adı
 
 def get_random_user_agent():
